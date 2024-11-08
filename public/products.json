@@ -1,0 +1,269 @@
+[
+  {
+    "product_id": 13,
+    "product_title": "Pulse SoundBar",
+    "product_image": "https://i.ibb.co/zrXXvhV/2150170101.jpg",
+    "category": "Speakers",
+    "price": 150,
+    "description": "Immersive soundbar with deep bass and virtual surround sound.",
+    "Specification": ["Bluetooth Connectivity", "HD Sound", "Compact Design"],
+    "availability": true,
+    "rating": 3.5
+  },
+  {
+    "product_id": 2,
+    "product_title": "Gaming Beast 15",
+    "product_image": "https://i.ibb.co/5GhSSKn/33669.jpg",
+    "category": "Laptops",
+    "price": 1200,
+    "description": "A laptop for serious gamers, equipped with top-of-the-line graphics and cooling systems.",
+    "Specification": [
+      "15.6-inch Full HD Display",
+      "32GB RAM",
+      "1TB SSD",
+      "NVIDIA RTX 3080"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 4,
+    "product_title": "WorkPro X",
+    "product_image": "https://i.ibb.co/rkHWS8k/8594.jpg",
+    "category": "Laptops",
+    "price": 1100,
+    "description": "Optimized for professionals needing fast performance and durability.",
+    "Specification": [
+      "15.6-inch Full HD Display",
+      "16GB RAM",
+      "512GB SSD",
+      "AMD Ryzen 7"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+
+  {
+    "product_id": 6,
+    "product_title": "PowerStudio 17",
+    "product_image": "https://i.ibb.co/5GhSSKn/33669.jpg",
+    "category": "Laptops",
+    "price": 1500,
+    "description": "Powerful laptop with high-end graphics, suitable for creative professionals.",
+    "Specification": [
+      "17-inch 4K Display",
+      "32GB RAM",
+      "1TB SSD",
+      "NVIDIA Quadro RTX"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 7,
+    "product_title": "SmartPhone X12",
+    "product_image": "https://i.ibb.co/pKyqHyS/12116.jpg",
+    "category": "Phones",
+    "price": 799,
+    "description": "Sleek and feature-packed smartphone with impressive battery life.",
+    "Specification": [
+      "6.1-inch OLED Display",
+      "128GB Storage",
+      "12MP Dual Camera",
+      "5G Enabled"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 3,
+    "product_title": "BudgetBook Air",
+    "product_image": "https://i.ibb.co/qJjXhRR/63465.jpg",
+    "category": "Laptops",
+    "price": 650,
+    "description": "Lightweight and affordable laptop, ideal for students and light users.",
+    "Specification": [
+      "14-inch HD Display",
+      "8GB RAM",
+      "256GB SSD",
+      "Intel i3 Processor"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 8,
+    "product_title": "Galaxy Alpha",
+    "product_image": "https://i.ibb.co/pKyqHyS/12116.jpg",
+    "category": "Phones",
+    "price": 999,
+    "description": "High-end smartphone with a professional camera system and fast processor.",
+    "Specification": [
+      "6.5-inch Super AMOLED Display",
+      "256GB Storage",
+      "50MP Triple Camera",
+      "5G Enabled"
+    ],
+    "availability": false,
+    "rating": 4.7
+  },
+  {
+    "product_id": 9,
+    "product_title": "FastCharge 50W",
+    "product_image": "https://i.ibb.co/m9CfMx8/4531.jpg",
+    "category": "Chargers",
+    "price": 55,
+    "description": "Fast charger with 50W output for quick charging of multiple devices.",
+    "Specification": [
+      "50W Output",
+      "USB-C and USB-A Ports",
+      "Smart Charging Technology"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 10,
+    "product_title": "EcoCharge Mini",
+    "product_image": "https://i.ibb.co/N2D0pfJ/4521.jpg",
+    "category": "Chargers",
+    "price": 50,
+    "description": "Compact and eco-friendly charger with fast charging capabilities.",
+    "Specification": [
+      "30W Output",
+      "USB-C Port",
+      "Made from Recycled Materials"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": 11,
+    "product_title": "Galaxy Tab S",
+    "product_image": "https://i.ibb.co/2YcD8Qf/2149319329.jpg",
+    "category": "Tablets",
+    "price": 499,
+    "description": "Lightweight and versatile tablet with a vivid display and powerful processor.",
+    "Specification": [
+      "10.5-inch Super AMOLED Display",
+      "128GB Storage",
+      "Octa-core Processor",
+      "12MP Rear Camera"
+    ],
+    "availability": false,
+    "rating": 4.3
+  },
+  {
+    "product_id": 12,
+    "product_title": "iPad Air",
+    "product_image": "https://i.ibb.co/dGgZJfw/96832.jpg",
+    "category": "Tablets",
+    "price": 599,
+    "description": "Portable and high-performing tablet with a variety of creative features.",
+    "Specification": [
+      "10.9-inch Liquid Retina Display",
+      "256GB Storage",
+      "A14 Bionic Chip",
+      "12MP Rear Camera"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 15,
+    "product_title": "SkyDrone X",
+    "product_image": "https://i.ibb.co/879Tbdk/Screenshot-1.png",
+    "category": "Drones",
+    "price": 750,
+    "description": "High-performance drone with 4K camera and extended flight time.",
+    "Specification": ["4K Camera", "30-min Flight Time", "GPS-enabled"],
+    "availability": true,
+    "rating": 4.8
+  },
+
+  {
+    "product_id": 14,
+    "product_title": "Echo Speaker Plus",
+    "product_image": "https://i.ibb.co/SyKyR9h/Screenshot-9.png",
+    "category": "Speakers",
+    "price": 180,
+    "description": "Smart speaker with voice assistant integration and enhanced audio quality.",
+    "Specification": [
+      "360-degree Sound",
+      "Voice Assistant Enabled",
+      "WiFi and Bluetooth Support"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": 18,
+    "product_title": "CompactCam V2",
+    "product_image": "https://i.ibb.co/q1pXdTF/Screenshot-4.png",
+    "category": "Cameras",
+    "price": 550,
+    "description": "Portable compact camera with powerful zoom and image stabilization.",
+    "Specification": ["20MP Sensor", "5x Optical Zoom", "HD Video Recording"],
+    "availability": false,
+    "rating": 4.4
+  },
+
+  {
+    "product_id": 1,
+    "product_title": "UltraBook Pro",
+    "product_image": "https://i.ibb.co/k6xQ4cq/2148041872.jpg",
+    "category": "Laptops",
+    "price": 899,
+    "description": "High-performance ultrabook with a sleek design and powerful internals.",
+    "Specification": [
+      "13-inch Retina Display",
+      "16GB RAM",
+      "512GB SSD",
+      "Intel i7 Processor"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 16,
+    "product_title": "NanoDrone Mini",
+    "product_image": "https://i.ibb.co/q9LTf23/Screenshot-2.png",
+    "category": "Drones",
+    "price": 200,
+    "description": "Compact drone perfect for beginners, equipped with a stable flight mode.",
+    "Specification": ["HD Camera", "10-min Flight Time", "Portable Design"],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": 17,
+    "product_title": "ProLens DSLR",
+    "product_image": "https://i.ibb.co/dc9k88g/Screenshot-3.png",
+    "category": "Cameras",
+    "price": 1300,
+    "description": "Professional-grade DSLR camera with advanced features for high-quality photography.",
+    "Specification": [
+      "24MP Full-Frame Sensor",
+      "4K Video Recording",
+      "Interchangeable Lenses"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 5,
+    "product_title": "TravelMate Lite",
+    "product_image": "https://i.ibb.co/qJjXhRR/63465.jpg",
+    "category": "Laptops",
+    "price": 700,
+    "description": "Compact and energy-efficient laptop, perfect for travel.",
+    "Specification": [
+      "13-inch HD Display",
+      "8GB RAM",
+      "256GB SSD",
+      "Intel i5 Processor"
+    ],
+    "availability": false,
+    "rating": 4.2
+  }
+]

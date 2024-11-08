@@ -1,0 +1,42 @@
+[
+  {
+    "question_number": 1,
+    "question": "What services do you offer?",
+    "answer": "We specialize in providing comprehensive electric building solutions, including installation, maintenance, and repair of electrical systems for residential, commercial, and industrial buildings."
+  },
+  {
+    "question_number": 2,
+    "question": "How do I schedule a service?",
+    "answer": "Scheduling a service with us is easy! You can either book through our website’s scheduling tool or call us directly at our customer service number."
+  },
+  {
+    "question_number": 3,
+    "question": "What safety measures do you follow?",
+    "answer": "We prioritize safety in all our operations. Our team follows strict safety protocols, adheres to industry standards, and uses high-quality materials to ensure safe and reliable installations."
+  },
+  {
+    "question_number": 4,
+    "question": "What are your payment options?",
+    "answer": "We accept various payment methods, including credit cards, debit cards, and bank transfers. Contact our support team for further assistance with payments."
+  },
+  {
+    "question_number": 5,
+    "question": "Can I get an estimate before the service?",
+    "answer": "Yes, we provide free estimates for all our services. Simply reach out to us with your requirements, and we’ll provide a transparent quote."
+  },
+  {
+    "question_number": 6,
+    "question": "How long does a typical installation or repair take?",
+    "answer": "Service duration depends on the project size and complexity. For smaller repairs, it can take just a few hours, while larger projects might require a few days. We will keep you updated at every step."
+  },
+  {
+    "question_number": 7,
+    "question": "Do you offer emergency services?",
+    "answer": "Yes, we offer emergency electrical services 24/7. If you’re facing an urgent issue, contact us immediately, and our team will assist you as soon as possible."
+  },
+  {
+    "question_number": 8,
+    "question": "Are your electricians licensed and insured?",
+    "answer": "Absolutely. Our team consists of certified, licensed, and insured electricians with years of experience in the industry."
+  }
+]

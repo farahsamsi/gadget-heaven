@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "category": "Laptops"
+  },
+  {
+    "id": 2,
+    "category": "Phones"
+  },
+  {
+    "id": 3,
+    "category": "Chargers"
+  },
+  {
+    "id": 4,
+    "category": "Tablets"
+  },
+  {
+    "id": 5,
+    "category": "Speakers"
+  },
+  {
+    "id": 6,
+    "category": "Drones"
+  },
+  {
+    "id": 7,
+    "category": "Cameras"
+  },
+  {
+    "id": 8,
+    "category": "Remotes"
+  }
+]
